@@ -28,7 +28,7 @@ The email uses a financial incentive (free spins) to create interest. The techni
 
 • VirusTotal Result (Short Link): Two security vendors flagged this as a Phishing link.
 
-• Unshortened Destination: https://tinyurl.com/app/nospam/tinyurl.com/mrymsuhv (Note: This appears to be a nested redirect attempt).
+• Unshortened Destination: https://tinyurl.com/app/nospam/tinyurl.com/mrymsuhv.
 
 • VirusTotal Result (Destination): One security vendor flagged the final destination as Phishing.
 
